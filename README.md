@@ -1,10 +1,104 @@
 ## Hi there 👋, I'm Tiago Antunes
 
-<div class="markdown-heading" dir="auto"><h3 tabindex="-1" class="heading-element" dir="auto">Skills</h3><a id="user-content-skills" class="anchor" aria-label="Permalink: Skills" href="#skills"><svg data-component="Octicon" class="octicon octicon-link" viewBox="0 0 16 16" version="1.1" width="16" height="16" aria-hidden="true"><path d="m7.775 3.275 1.25-1.25a3.5 3.5 0 1 1 4.95 4.95l-2.5 2.5a3.5 3.5 0 0 1-4.95 0 .751.751 0 0 1 .018-1.042.751.751 0 0 1 1.042-.018 1.998 1.998 0 0 0 2.83 0l2.5-2.5a2.002 2.002 0 0 0-2.83-2.83l-1.25 1.25a.751.751 0 0 1-1.042-.018.751.751 0 0 1-.018-1.042Zm-4.69 9.64a1.998 1.998 0 0 0 2.83 0l1.25-1.25a.751.751 0 0 1 1.042.018.751.751 0 0 1 .018 1.042l-1.25 1.25a3.5 3.5 0 1 1-4.95-4.95l2.5-2.5a3.5 3.5 0 0 1 4.95 0 .751.751 0 0 1-.018 1.042.751.751 0 0 1-1.042.018 1.998 1.998 0 0 0-2.83 0l-2.5 2.5a1.998 1.998 0 0 0 0 2.83Z"></path></svg></a></div>
-<p align="left" dir="auto">
-<a href="https://docs.microsoft.com/en-us/cpp/?view=msvc-170" rel="nofollow"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/cplusplus-colored.svg" width="36" height="36" alt="C++" style="max-width: 100%; height: auto; max-height: 36px;; aspect-ratio: 36 / 36; background-color: var(--bgColor-muted); border-radius: 6px" class="js-gh-image-fallback"></a><a href="https://www.python.org/" rel="nofollow"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/python-colored.svg" width="36" height="36" alt="Python" style="max-width: 100%; height: auto; max-height: 36px;; aspect-ratio: 36 / 36; background-color: var(--bgColor-muted); border-radius: 6px" class="js-gh-image-fallback"></a><a href="https://www.php.net/" rel="nofollow"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/php-colored.svg" width="36" height="36" alt="PHP" style="max-width: 100%; height: auto; max-height: 36px;; aspect-ratio: 36 / 36; background-color: var(--bgColor-muted); border-radius: 6px" class="js-gh-image-fallback"></a><a href="https://www.gnu.org/software/bash/" rel="nofollow"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/gnubash.svg" width="36" height="36" alt="GNU Bash" style="max-width: 100%; height: auto; max-height: 36px;; aspect-ratio: 36 / 36; background-color: var(--bgColor-muted); border-radius: 6px" class="js-gh-image-fallback"></a><a href="https://code.visualstudio.com/" rel="nofollow"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/visualstudiocode.svg" width="36" height="36" alt="VS Code" style="max-width: 100%; height: auto; max-height: 36px;; aspect-ratio: 36 / 36; background-color: var(--bgColor-muted); border-radius: 6px" class="js-gh-image-fallback"></a><a href="https://developer.mozilla.org/en-US/docs/Glossary/HTML5" rel="nofollow"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/html5-colored.svg" width="36" height="36" alt="HTML5" style="max-width: 100%; height: auto; max-height: 36px;; aspect-ratio: 36 / 36; background-color: var(--bgColor-muted); border-radius: 6px" class="js-gh-image-fallback"></a><a href="https://www.w3.org/TR/CSS/#css" rel="nofollow"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/css3-colored.svg" width="36" height="36" alt="CSS3" style="max-width: 100%; height: auto; max-height: 36px;; aspect-ratio: 36 / 36; background-color: var(--bgColor-muted); border-radius: 6px" class="js-gh-image-fallback"></a><a href="https://www.mysql.com/" rel="nofollow"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/mysql-colored.svg" width="36" height="36" alt="MySQL" style="max-width: 100%; height: auto; max-height: 36px;; aspect-ratio: 36 / 36; background-color: var(--bgColor-muted); border-radius: 6px" class="js-gh-image-fallback"></a><a href="https://www.adobe.com/uk/products/photoshop.html" rel="nofollow"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/photoshop-colored.svg" width="36" height="36" alt="Photoshop" style="max-width: 100%; height: auto; max-height: 36px;; aspect-ratio: 36 / 36; background-color: var(--bgColor-muted); border-radius: 6px" class="js-gh-image-fallback"></a><a href="https://www.adobe.com/uk/products/aftereffects.html" rel="nofollow"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/aftereffects-colored.svg" width="36" height="36" alt="After Effects" style="max-width: 100%; height: auto; max-height: 36px;; aspect-ratio: 36 / 36; background-color: var(--bgColor-muted); border-radius: 6px" class="js-gh-image-fallback"></a><a href="https://www.adobe.com/uk/products/premiere.html" rel="nofollow"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/premierepro-colored.svg" width="36" height="36" alt="Premiere Pro" style="max-width: 100%; height: auto; max-height: 36px;; aspect-ratio: 36 / 36; background-color: var(--bgColor-muted); border-radius: 6px" class="js-gh-image-fallback"></a><a href="https://wordpress.com" rel="nofollow"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/wordpress-colored.svg" width="36" height="36" alt="Wordpress" style="max-width: 100%; height: auto; max-height: 36px;; aspect-ratio: 36 / 36; background-color: var(--bgColor-muted); border-radius: 6px" class="js-gh-image-fallback"></a><a href="https://store.arduino.cc/?gclid=Cj0KCQjw2eilBhCCARIsAG0Pf8uueBifykWcsSS4LPESeGQfxGVKJYnzV7bz471XfknQJy_1VINVWM8aAkLtEALw_wcB" rel="nofollow"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/arduino-colored.svg" width="36" height="36" alt="Arduino" style="max-width: 100%; height: auto; max-height: 36px;; aspect-ratio: 36 / 36; background-color: var(--bgColor-muted); border-radius: 6px" class="js-gh-image-fallback"></a><a href="https://www.linux.org" rel="nofollow"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/linux-colored.svg" width="36" height="36" alt="Linux" style="max-width: 100%; height: auto; max-height: 36px;; aspect-ratio: 36 / 36; background-color: var(--bgColor-muted); border-radius: 6px" class="js-gh-image-fallback"></a><a href="https://www.raspberrypi.org/" rel="nofollow"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/raspberrypi-colored.svg" width="36" height="36" alt="Raspberry Pi" style="max-width: 100%; height: auto; max-height: 36px;; aspect-ratio: 36 / 36; background-color: var(--bgColor-muted); border-radius: 6px" class="js-gh-image-fallback"></a>
+##Skills
+
+<p align="left">
+    <a href="https://docs.microsoft.com/en-us/cpp/?view=msvc-170" target="_blank" rel="noreferrer"
+        ><img
+            src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/cplusplus-colored.svg"
+            width="36"
+            height="36"
+            alt="C++" /></a
+    ><a href="https://www.python.org/" target="_blank" rel="noreferrer"
+        ><img
+            src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/python-colored.svg"
+            width="36"
+            height="36"
+            alt="Python" /></a
+    ><a href="https://www.php.net/" target="_blank" rel="noreferrer"
+        ><img
+            src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/php-colored.svg"
+            width="36"
+            height="36"
+            alt="PHP" /></a
+    ><a href="https://www.gnu.org/software/bash/" target="_blank" rel="noreferrer"
+        ><img
+            src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/gnubash.svg"
+            width="36"
+            height="36"
+            alt="GNU Bash" /></a
+    ><a href="https://code.visualstudio.com/" target="_blank" rel="noreferrer"
+        ><img
+            src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/visualstudiocode.svg"
+            width="36"
+            height="36"
+            alt="VS Code" /></a
+    ><a href="https://developer.mozilla.org/en-US/docs/Glossary/HTML5" target="_blank" rel="noreferrer"
+        ><img
+            src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/html5-colored.svg"
+            width="36"
+            height="36"
+            alt="HTML5" /></a
+    ><a href="https://www.w3.org/TR/CSS/#css" target="_blank" rel="noreferrer"
+        ><img
+            src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/css3-colored.svg"
+            width="36"
+            height="36"
+            alt="CSS3" /></a
+    ><a href="https://www.mysql.com/" target="_blank" rel="noreferrer"
+        ><img
+            src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/mysql-colored.svg"
+            width="36"
+            height="36"
+            alt="MySQL" /></a
+    ><a href="https://www.adobe.com/uk/products/photoshop.html" target="_blank" rel="noreferrer"
+        ><img
+            src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/photoshop-colored.svg"
+            width="36"
+            height="36"
+            alt="Photoshop" /></a
+    ><a href="https://www.adobe.com/uk/products/aftereffects.html" target="_blank" rel="noreferrer"
+        ><img
+            src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/aftereffects-colored.svg"
+            width="36"
+            height="36"
+            alt="After Effects" /></a
+    ><a href="https://www.adobe.com/uk/products/premiere.html" target="_blank" rel="noreferrer"
+        ><img
+            src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/premierepro-colored.svg"
+            width="36"
+            height="36"
+            alt="Premiere Pro" /></a
+    ><a href="https://wordpress.com" target="_blank" rel="noreferrer"
+        ><img
+            src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/wordpress-colored.svg"
+            width="36"
+            height="36"
+            alt="Wordpress" /></a
+    ><a
+        href="https://store.arduino.cc/?gclid=Cj0KCQjw2eilBhCCARIsAG0Pf8uueBifykWcsSS4LPESeGQfxGVKJYnzV7bz471XfknQJy_1VINVWM8aAkLtEALw_wcB"
+        target="_blank"
+        rel="noreferrer"
+        ><img
+            src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/arduino-colored.svg"
+            width="36"
+            height="36"
+            alt="Arduino" /></a
+    ><a href="https://www.linux.org" target="_blank" rel="noreferrer"
+        ><img
+            src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/linux-colored.svg"
+            width="36"
+            height="36"
+            alt="Linux" /></a
+    ><a href="https://www.raspberrypi.org/" target="_blank" rel="noreferrer"
+        ><img
+            src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/raspberrypi-colored.svg"
+            width="36"
+            height="36"
+            alt="Raspberry Pi"
+    /></a>
 </p>
-<!--
+
 **tiagoantunes71/tiagoantunes71** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
 Here are some ideas to get you started:
